@@ -1,7 +1,7 @@
 # arduino_fbench
 fbench port to Arduino (compatible with LGT8Fx)
 
-This is a quick and dirty port of the "John Walker's Floating Point Benchmark" to Arduino.
+This is a quick and dirty port of the [John Walker's Floating Point Benchmark](https://www.fourmilab.ch/fbench/fbench.html) to Arduino.
 
 This port is mainly intended to compare performances between ATmega328p and LGT8F328p, and between different compilation optimization levels.
 
